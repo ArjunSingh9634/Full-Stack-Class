@@ -1,0 +1,90 @@
+/* *{
+    padding:0px;
+    margin: 0px;
+
+}
+body{
+    background-color: aqua;
+}
+.hole{
+    width: 800px;
+
+    border:2px solid black ;
+}
+.nav{
+    height: 35px;
+    
+
+}
+a{
+    margin-left: 50px;
+    color: black;
+}
+.le{
+    margin-left: 100px;
+    
+    padding: 5px 10px;
+    border-radius: 5px;
+    margin-top: 1.5px;
+    border-color:green ;
+    color: green;
+}
+.my{
+    font-weight: bold;
+    margin-left: 50px;
+    margin-right: 20px;
+}
+.main{
+    text-align: start;
+    margin-top: 100px;
+    margin-left: 60px
+}
+.he{
+    color: blue;
+}
+.lo{
+    width: 350px;
+    font-size: 10px;
+    margin-bottom: 10px;
+
+}
+.hi{
+    border-radius: 5px;
+    background-color:blue ;
+    color: white;
+    padding: 5px 10px;
+    margin-right: 10px;
+}
+.do{
+    border-radius: 5px;
+    padding: 5px 10px;
+    border-color: blue;
+    background-color: white;
+    color:blue;
+
+
+}
+.all{
+    background-color: aqua;
+    margin-left: 0px;
+}
+.ed{
+    text-align: center;
+    margin-top: 100px;
+    color: white;
+}
+.all{
+    background-color: aqua;
+    margin-left: 0px;
+}
+.ge{
+    text-align: center;
+    margin-top: 50px;
+    
+} */
+div{
+    
+     display: grid;
+     grid-template-columns:100px 100px 100px 100px 100px 100px 100px 100px ;
+     background-color: aqua;
+}
