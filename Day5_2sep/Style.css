@@ -90,5 +90,8 @@ button{
     height: 60px;
     width: 109px;
     border-radius: 10px;
+    font-size: 25px;
+    font-weight: bold;
+    
     
 }
