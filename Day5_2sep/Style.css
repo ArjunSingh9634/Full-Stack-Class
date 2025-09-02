@@ -1,0 +1,94 @@
+/* .div1{
+    height: 100px ;
+    width: 100px;
+    background-color: brown;
+    border: 2px solid black;
+    display: inline-block;
+    position: static;
+}
+.div2{
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+    border: 2px solid black;
+    display: inline-block;
+    position: relative;
+    top: 20px;
+    left: 90px;
+}
+.div3{
+    height: 100px;
+    width: 100px;
+    background-color:blue;
+    border: 2px solid black;
+    display: inline-block;
+    position: fixed;
+    top: 50px;
+    left: 90px;
+}
+.div4{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(198, 18, 141);
+    border: 2px solid black;
+    display: inline-block;
+    position: absolute;
+    top: 40px;
+    left: 400px;
+}
+.div5{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(54, 108, 6);
+    border: 2px solid black;
+    display: inline-block;
+} */
+ body{
+    background-color: aqua;
+ }
+
+.div0{
+    background-color: black;
+    border-radius: 10px;
+    width:500px;
+    text-align: center;
+    margin-left: 500px;
+    margin-top: 250px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: 5px solid black;
+    /* padding-top:150px; */
+    
+    
+    
+}
+.diva{
+   height: 100px;
+   width: 450px;
+   background-color:white;
+   margin-left: 25px;
+   margin-top: 20px;
+   margin-bottom: 5px;
+   border-radius: 10px;
+   text-align: right;
+   align-content: end;
+   font-size: 50px;
+   font-weight: bold;
+   border: 5px solid rgb(192, 192, 12);
+    
+}
+.div00{
+    text-align: center;
+    margin-left: 8px;
+    
+    
+}
+.l1{
+    display: inline-block;
+}
+button{
+    height: 60px;
+    width: 109px;
+    border-radius: 10px;
+    
+}
